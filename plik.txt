@@ -1,1 +1,2 @@
 Beginning of the file
+Some lines from B

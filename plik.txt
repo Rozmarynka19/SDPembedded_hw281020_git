@@ -1,2 +1,2 @@
 Beginning of the file
-Some lines from master and A
+Some lines from master, A and B
